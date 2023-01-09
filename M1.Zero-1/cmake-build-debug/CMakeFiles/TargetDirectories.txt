@@ -1,0 +1,3 @@
+/home/pk/Ozon Masters/2 сем/Практикум по алгоритмам/CLionProjects/M1.Zero-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pk/Ozon Masters/2 сем/Практикум по алгоритмам/CLionProjects/M1.Zero-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pk/Ozon Masters/2 сем/Практикум по алгоритмам/CLionProjects/M1.Zero-1/cmake-build-debug/CMakeFiles/M1_Zero_1.dir
